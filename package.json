@@ -90,7 +90,7 @@
     "lerna": "9.0.7",
     "markdownlint-cli2": "0.22.0",
     "pkg-pr-new": "0.0.66",
-    "prettier": "3.8.1",
+    "prettier": "3.8.3",
     "pretty-quick": "4.2.2",
     "publint": "0.3.18",
     "react": "19.2.4",
@@ -103,7 +103,7 @@
     "tailwindcss": "4.2.2",
     "terser": "5.46.1",
     "tsx": "4.21.0",
-    "typescript": "6.0.2",
+    "typescript": "6.0.3",
     "vite": "8.0.5",
     "vitest": "4.1.2"
   },
